@@ -172,10 +172,10 @@ const cards = [
       audioSrc: 'audio/sheep.mp3',
     },
     {
-      word: 'Numbut',
+      word: 'Raccoon',
       translation: 'Муравьед',
-      image: 'img/animals/numbut.svg',
-      audioSrc: 'audio/numbut.mp3',
+      image: 'img/animals/raccoon.svg',
+      audioSrc: 'audio/raccoon.mp3',
     },
     {
       word: 'Turtle',
@@ -230,8 +230,8 @@ const cards = [
     {
       word: 'Сrocodile',
       translation: 'Крокодил',
-      image: 'img/animals/сrocodile.svg',
-      audioSrc: 'audio/сrocodile.mp3',
+      image: 'img/animals/crocodile.svg',
+      audioSrc: 'audio/crocodile.mp3',
     },
   ],
   [
